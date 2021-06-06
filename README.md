@@ -19,6 +19,7 @@ The Notebook is primarly divided into 2 parts: -
 - My Portfolio Analysis
   - Also, easy to follow, but different in that a portfolio of price data is built up into the "My Portfolio" Pandas DataFrame, working through some analysis on it.
 - Finally, the former and latter portfolios are combined and some analysis performed on them too, ending in the final conclusion.
+  - Stock data is available within the `./Resources` folder if you'd like to have a squiz.
 
 ---
 ## Acknowledgements
