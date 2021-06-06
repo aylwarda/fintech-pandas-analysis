@@ -26,5 +26,5 @@ The Notebook is primarly divided into 2 parts: -
 ### Sources
 - For this little project, there weren't really any specific sources I consulted, except: -
   - Python docs themselves, located [here](https://docs.python.org/3/).
-  - Pandas documentation as well, [here](hhttps://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html).
+  - Pandas documentation as well, found [here](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html).
   - The Google Finance API (as part of Google Sheets) which I found fun to read about and use (I downloaded some closing prices for the two TSX stocks I added to "My Portfolio").  Some notes on how to use it found [here](https://support.google.com/docs/answer/3093281).
